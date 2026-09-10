@@ -18,6 +18,13 @@ OctoAcme follows a five-phase lifecycle: **Initiation**, **Planning**, **Executi
 
 OctoAcme delivery is structured around lightweight but consistent workflows: a project one-pager for initiation, prioritized backlog planning with acceptance criteria and definition of done, small pull requests with CI checks, release readiness checklists, and retrospectives with owned follow-up actions.
 
+Guiding principles:
+- **customer-first**
+- **iterative delivery**
+- **clear ownership**
+- **data-informed decisions**
+- **psychological safety**
+
 Roles are clearly defined: Product Managers prioritize outcomes and roadmap decisions, Project Managers coordinate delivery and risk management, Developers implement and test incrementally, QA/Testing validates acceptance criteria, and Stakeholders provide alignment and approvals at key points.
 
 Communication uses a predictable cadence to reduce surprises and unblock work quickly: regular standups, weekly delivery/PM syncs, demos at sprint or milestone boundaries, and periodic stakeholder updates. Risks and dependencies are tracked in a register and escalated through a clear path when needed.
@@ -67,14 +74,10 @@ Quality assurance is embedded in day-to-day execution through unit tests, integr
 - [Execution Checklist](./octoacme-execution-and-tracking.md#execution-checklist)
 - [Deployment Checklist](./octoacme-release-and-deployment.md#deployment-checklist)
 - [Release Notes Template](./octoacme-release-and-deployment.md#release-notes-template)
-- [Weekly Status Template](./octoacme-risks-and-communication.md#communication-templates)
+- [Weekly Status Template](./octoacme-risks-and-communication.md#weekly-status-template)
 - [Retrospective Action Item Template](./octoacme-retrospective-and-continuous-improvement.md#example-action-item-template)
 
 ## Questions or Feedback
 
-To improve these docs, open an issue or pull request with:
-- what is unclear or missing,
-- suggested wording or process updates, and
-- impacted phase(s) or role(s).
-
-Keep updates practical and specific so this space remains a useful single source of truth for OctoAcme delivery teams.
+To suggest documentation improvements, use the process-docs issue template:
+- [Add/update content to process docs](https://github.com/gh300v1/skills-scale-institutional-knowledge-using-copilot-spacesv5/issues/new?template=add-update-content-to-process-docs.yml)

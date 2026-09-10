@@ -25,7 +25,8 @@ Maintain a simple table with:
 - Use a single source of truth (project README or release doc) for status
 
 ## Communication Templates
-Weekly Status Template:
+
+### Weekly Status Template
 - Progress this week:
 - Next steps:
 - Risks & blockers:
