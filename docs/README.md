@@ -67,7 +67,7 @@ Quality assurance is embedded in day-to-day execution through unit tests, integr
 - [Execution Checklist](./octoacme-execution-and-tracking.md#execution-checklist)
 - [Deployment Checklist](./octoacme-release-and-deployment.md#deployment-checklist)
 - [Release Notes Template](./octoacme-release-and-deployment.md#release-notes-template)
-- [Weekly Status Template](./octoacme-risks-and-communication.md#communication-templates)
+- [Communication Templates (includes Weekly Status Template)](./octoacme-risks-and-communication.md#communication-templates)
 - [Retrospective Action Item Template](./octoacme-retrospective-and-continuous-improvement.md#example-action-item-template)
 
 ## Questions or Feedback
